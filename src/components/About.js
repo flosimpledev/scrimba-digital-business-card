@@ -5,7 +5,7 @@ export default function About() {
     <div className="about">
       <h3 className="about--title">About</h3>
       <p className="about--paragraph">
-        Practicing Web Development to become a Junior Web Developer
+        Practicing Front End Web Development to become a Junior Front End Web Developer
       </p>
     </div>
   );

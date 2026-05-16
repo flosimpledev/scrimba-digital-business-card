@@ -8,12 +8,12 @@ export default function Info() {
   return (
     <div className="info">
       <img className="info--photo" src={EDMPhoto} alt="emanuele del monte" />
-      <h1 className="info--fullname">Filomeno Espiritu</h1>
+      <h1 className="info--fullname">Flo Espiritu</h1>
       <h5 className="info--role">Junior Front End Developer</h5>
       <p className="info--website">
         <a
           className="info--websiteLink"
-          href="https://www.mywebsite.it"
+          href="https://www.mywebsite"
           target="_blank"
           rel="noopener noreferrer"
         >
